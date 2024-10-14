@@ -146,7 +146,7 @@
                   children: (0, c.jsx)("div", {
                     class: "bg_y b_s3 px3 py05 fs15 cw br30 ",
                     children: (0, c.jsx)("a", {
-                      href: "https://pump.fun/ceFs6e3nKZvGLDXDAWnfRyvyRj9PWEEqupmifqHpump",
+                      href: "https://pump.fun/TxXafd9KqoLah4siQNHv1dVhxw64V6KmaxFPJp9pump",
                       target: "_blank",
                       children: "GET $PEDRO",
                     }),
@@ -197,7 +197,7 @@
                           className: "df aic ttu jcc g1 flex-wrap mb2",
                           children: [
                             (0, c.jsx)("a", {
-                              href: "https://t.me/PedroDegenFun",
+                              href: "https://t.me/PedroDegenCTO",
                               target: "_blank",
                               children: (0, c.jsxs)("div", {
                                 className:
@@ -231,7 +231,7 @@
                               }),
                             }),
                             (0, c.jsx)("a", {
-                              href: "https://pump.fun/ceFs6e3nKZvGLDXDAWnfRyvyRj9PWEEqupmifqHpump",
+                              href: "https://pump.fun/TxXafd9KqoLah4siQNHv1dVhxw64V6KmaxFPJp9pump",
                               target: "_blank",
                               children: (0, c.jsxs)("div", {
                                 className:
@@ -258,12 +258,12 @@
                               className:
                                 "df aic jcc g1 px4 py1 fs25 br60 bg_y b_s2 cw m-q-b-d-n",
                               children: [
-                                "ceFs6e3nKZvGLDXDAWnfRyvyRj9PWEEqupmifqHpump",
+                                "TxXafd9KqoLah4siQNHv1dVhxw64V6KmaxFPJp9pump",
                                 (0, c.jsx)(N.Dup, {
                                   className: "fs15 bct cp",
                                   onClick: () =>
                                     s(
-                                      "ceFs6e3nKZvGLDXDAWnfRyvyRj9PWEEqupmifqHpump"
+                                      "TxXafd9KqoLah4siQNHv1dVhxw64V6KmaxFPJp9pump"
                                     ),
                                 }),
                               ],
@@ -273,13 +273,13 @@
                                 "df aic jcc g1 px4 py2 fs125 br60 bglp2 b_s2 cw m-q-a-d-n",
                               children: [
                                 String(
-                                  "ceFs6e3nKZvGLDXDAWnfRyvyRj9PWEEqupmifqHpump"
+                                  "TxXafd9KqoLah4siQNHv1dVhxw64V6KmaxFPJp9pump"
                                 ).slice(0, 4) + "...",
                                 (0, c.jsx)(N.Dup, {
                                   className: "fs15 bct cp",
                                   onClick: () =>
                                     s(
-                                      "ceFs6e3nKZvGLDXDAWnfRyvyRj9PWEEqupmifqHpump"
+                                      "TxXafd9KqoLah4siQNHv1dVhxw64V6KmaxFPJp9pump"
                                     ),
                                 }),
                               ],
@@ -456,7 +456,7 @@
                                 className: "bgb py05 fs15 br10 cw w100",
                                 children: "PEDRO",
                                 style: { width: "100%", display: "flex", justifyContent: "center" },
-                                href: "https://pump.fun/ceFs6e3nKZvGLDXDAWnfRyvyRj9PWEEqupmifqHpump"
+                                href: "https://pump.fun/TxXafd9KqoLah4siQNHv1dVhxw64V6KmaxFPJp9pump"
                                 
                               }),
 
@@ -525,7 +525,7 @@
                                   className: "bgb py05 fs15 br10 cw w100",
                                   children: "Book now",
                                   style: { width: "100%", display: "flex", justifyContent: "center" },
-                                  href: "https://pump.fun/ceFs6e3nKZvGLDXDAWnfRyvyRj9PWEEqupmifqHpump"
+                                  href: "https://pump.fun/TxXafd9KqoLah4siQNHv1dVhxw64V6KmaxFPJp9pump"
                                   
                                 }),
                                 (0, c.jsxs)("div", {
@@ -539,7 +539,7 @@
                                       children: [
                                         (0, c.jsx)("div", {
                                           className: "fs15",
-                                          children: "https://t.me/PedroDegenFun",
+                                          children: "https://t.me/PedroDegenCTO",
                                         }),
                                         (0, c.jsx)("div", {
                                           className: "fs15 fw600",
@@ -724,7 +724,7 @@
                         }),
                       }),
                       (0, c.jsx)("a", {
-                        href: "https://t.me/PedroDegenFun",
+                        href: "https://t.me/PedroDegenCTO",
                         target: "_blank",
                         children: (0, c.jsx)("div", {
                           className: "pa1 fs2 cw  br50 bgg b_s cw ",
@@ -732,7 +732,7 @@
                         }),
                       }),
                       (0, c.jsx)("a", {
-                        href: "https://pump.fun/ceFs6e3nKZvGLDXDAWnfRyvyRj9PWEEqupmifqHpump",
+                        href: "https://pump.fun/TxXafd9KqoLah4siQNHv1dVhxw64V6KmaxFPJp9pump",
                         target: "_blank",
                         children: (0, c.jsx)("div", {
                           className: "pa1 fs2 cw  br50 bgg b_s cw ",
@@ -756,7 +756,7 @@
                     //     }),
                     //   }),
                     //   (0, c.jsx)("a", {
-                    //     href: "https://solscan.io/token/ceFs6e3nKZvGLDXDAWnfRyvyRj9PWEEqupmifqHpump",
+                    //     href: "https://solscan.io/token/TxXafd9KqoLah4siQNHv1dVhxw64V6KmaxFPJp9pump",
                     //     target: "_blank",
                     //     children: (0, c.jsx)("div", {
                     //       className: "pa1 fs2 cw  br50 bgg b_s cw ",
@@ -807,13 +807,13 @@
                   }),
                   (0, c.jsx)("div", {
                     className: "m-q-b-d-n fs15",
-                    children: "ceFs6e3nKZvGLDXDAWnfRyvyRj9PWEEqupmifqHpump",
+                    children: "TxXafd9KqoLah4siQNHv1dVhxw64V6KmaxFPJp9pump",
                   }),
                   (0, c.jsx)("div", {
                     className: "m-q-a-d-n fs15",
                     children:
                       String(
-                        "ceFs6e3nKZvGLDXDAWnfRyvyRj9PWEEqupmifqHpump"
+                        "TxXafd9KqoLah4siQNHv1dVhxw64V6KmaxFPJp9pump"
                       ).slice(0, 10) + "...",
                   }),
                 ],
