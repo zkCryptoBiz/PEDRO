@@ -47,7 +47,7 @@
                         className: "icon",
                         children: 0 === s ? "..." : "▼",
                       }),
-                      (0, c.jsx)("h3", { children: "Who is PEDRO?" }),
+                      (0, c.jsx)("h3", { children: "Who is CHAPO?" }),
                     ],
                   }),
                   0 === s &&
@@ -56,7 +56,7 @@
                       children: (0, c.jsx)("p", {
                         className: "fs15",
                         children:
-                          'Most of us degens are too caught up hunting for the "the next banger" to handle our women\'s needs, whether it’s emotional or... you know, the other stuff. That’s where PEDRO comes in — perfect for the typical degen who’s always grinding and just doesnt have the time to put in the work',
+                          'Most of us degens are too caught up hunting for the "the next banger" to handle our women\'s needs, whether it’s emotional or... you know, the other stuff. That’s where CHAPO comes in — perfect for the typical degen who’s always grinding and just doesnt have the time to put in the work',
                       }),
                     }),
                 ],
@@ -73,7 +73,7 @@
                         children: 1 === s ? "..." : "▼",
                       }),
                       (0, c.jsx)("h3", {
-                        children: "Who is the team behind $PEDRO?",
+                        children: "Who is the team behind $CHAPO?",
                       }),
                     ],
                   }),
@@ -83,7 +83,7 @@
                       children: (0, c.jsx)("p", {
                         className: "fs15",
                         children:
-                          "The team behind $PEDRO consists of blockchain enthusiasts and meme culture lovers.",
+                          "The team behind $CHAPO consists of blockchain enthusiasts and meme culture lovers.",
                       }),
                     }),
                 ],
@@ -100,7 +100,7 @@
                         children: 2 === s ? "..." : "▼",
                       }),
                       (0, c.jsx)("h3", {
-                        children: "Where can I buy $PEDRO?",
+                        children: "Where can I buy $CHAPO?",
                       }),
                     ],
                   }),
@@ -110,7 +110,7 @@
                       children: (0, c.jsx)("p", {
                         className: "fs15",
                         children:
-                          "You can buy $PEDRO on various decentralized exchanges and trading platforms.",
+                          "You can buy $CHAPO on various decentralized exchanges and trading platforms.",
                       }),
                     }),
                 ],
@@ -137,7 +137,7 @@
                     }),
                     (0, c.jsx)("div", {
                       className: "cw tac",
-                      children: "PEDRO",
+                      children: "CHAPO",
                     }),
                   ],
                 }),
@@ -146,9 +146,9 @@
                   children: (0, c.jsx)("div", {
                     class: "bg_y b_s3 px3 py05 fs15 cw br30 ",
                     children: (0, c.jsx)("a", {
-                      href: "https://pump.fun/TxXafd9KqoLah4siQNHv1dVhxw64V6KmaxFPJp9pump",
+                      href: "https://pump.fun/bmafWuYFWKRVZYzuzdherVDCgtnfCQQZZnY9u9Zpump",
                       target: "_blank",
-                      children: "GET $PEDRO",
+                      children: "GET $CHAPO",
                     }),
                   }),
                 }),
@@ -188,7 +188,7 @@
                         (0, c.jsx)("div", {
                           className: "tac mb5",
                           children: (0, c.jsx)("img", {
-                            src: "/PEDRO-logo.png",
+                            src: "/CHAPO-logo.png",
                             className: "animation w20  db ma",
                             alt: "",
                           }),
@@ -197,7 +197,7 @@
                           className: "df aic ttu jcc g1 flex-wrap mb2",
                           children: [
                             (0, c.jsx)("a", {
-                              href: "https://t.me/PedroDegenCTO",
+                              href: "https://t.me/CHAPODegenCTO",
                               target: "_blank",
                               children: (0, c.jsxs)("div", {
                                 className:
@@ -214,7 +214,7 @@
                               }),
                             }),
                             (0, c.jsx)("a", {
-                              href: "https://x.com/PedroDegenFun",
+                              href: "https://x.com/CHAPODegenFun",
                               target: "_blank",
                               children: (0, c.jsxs)("div", {
                                 className:
@@ -231,7 +231,7 @@
                               }),
                             }),
                             (0, c.jsx)("a", {
-                              href: "https://pump.fun/TxXafd9KqoLah4siQNHv1dVhxw64V6KmaxFPJp9pump",
+                              href: "https://pump.fun/bmafWuYFWKRVZYzuzdherVDCgtnfCQQZZnY9u9Zpump",
                               target: "_blank",
                               children: (0, c.jsxs)("div", {
                                 className:
@@ -258,12 +258,12 @@
                               className:
                                 "df aic jcc g1 px4 py1 fs25 br60 bg_y b_s2 cw m-q-b-d-n",
                               children: [
-                                "TxXafd9KqoLah4siQNHv1dVhxw64V6KmaxFPJp9pump",
+                                "bmafWuYFWKRVZYzuzdherVDCgtnfCQQZZnY9u9Zpump",
                                 (0, c.jsx)(N.Dup, {
                                   className: "fs15 bct cp",
                                   onClick: () =>
                                     s(
-                                      "TxXafd9KqoLah4siQNHv1dVhxw64V6KmaxFPJp9pump"
+                                      "bmafWuYFWKRVZYzuzdherVDCgtnfCQQZZnY9u9Zpump"
                                     ),
                                 }),
                               ],
@@ -273,13 +273,13 @@
                                 "df aic jcc g1 px4 py2 fs125 br60 bglp2 b_s2 cw m-q-a-d-n",
                               children: [
                                 String(
-                                  "TxXafd9KqoLah4siQNHv1dVhxw64V6KmaxFPJp9pump"
+                                  "bmafWuYFWKRVZYzuzdherVDCgtnfCQQZZnY9u9Zpump"
                                 ).slice(0, 4) + "...",
                                 (0, c.jsx)(N.Dup, {
                                   className: "fs15 bct cp",
                                   onClick: () =>
                                     s(
-                                      "TxXafd9KqoLah4siQNHv1dVhxw64V6KmaxFPJp9pump"
+                                      "bmafWuYFWKRVZYzuzdherVDCgtnfCQQZZnY9u9Zpump"
                                     ),
                                 }),
                               ],
@@ -303,7 +303,7 @@
                         style: { animationDuration: "45s" },
                         children: (0, c.jsx)("p", {
                           children:
-                            "$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0",
+                            "$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0",
                         }),
                       }),
                       (0, c.jsx)("div", {
@@ -311,7 +311,7 @@
                         style: { animationDuration: "45s" },
                         children: (0, c.jsx)("p", {
                           children:
-                            "$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0",
+                            "$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0",
                         }),
                       }),
                     ],
@@ -321,7 +321,7 @@
               (0, c.jsx)("div", {
                 className: "",
                 children: (0, c.jsx)("img", {
-                  src: "/PEDRO-banner-final.webp",
+                  src: "/CHAPO-banner-final.webp",
                   alt: "",
                 }),
               }),
@@ -337,7 +337,7 @@
                         style: { animationDuration: "45s" },
                         children: (0, c.jsx)("p", {
                           children:
-                            "$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0",
+                            "$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0",
                         }),
                       }),
                       (0, c.jsx)("div", {
@@ -345,7 +345,7 @@
                         style: { animationDuration: "45s" },
                         children: (0, c.jsx)("p", {
                           children:
-                            "$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0",
+                            "$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0",
                         }),
                       }),
                     ],
@@ -357,13 +357,13 @@
                 children: [
                   (0, c.jsx)("div", {
                     className: "fs4 tac fw600 mb2 cw",
-                    children: "PEDRO Services",
+                    children: "CHAPO Services",
                   }),
                   (0, c.jsx)("div", {
                     className: "",
                     children: (0, c.jsx)("video", {
                       controls: !0,
-                      src: "/final_pedro.mp4",
+                      src: "/final_CHAPO.mp4",
                       type: "video/mp4",
                       autoplay: !0,
                       loop: !0,
@@ -383,11 +383,11 @@
                         (0, c.jsx)("p", {
                           className: "tac",
                           children:
-                            "Don't worry, Pedro knows times are tough. But just because your coins are down doesn’t mean her standards should be!",
+                            "Don't worry, CHAPO knows times are tough. But just because your coins are down doesn’t mean her standards should be!",
                         }),
                         (0, c.jsx)("p", {
                           className: "fs3 tac fw600 mt2",
-                          children: "Why Pedro Services?",
+                          children: "Why CHAPO Services?",
                         }),
                         (0, c.jsx)("p", {
                           className: "tac",
@@ -396,7 +396,7 @@
                         (0, c.jsx)("p", {
                           className: "tac",
                           children:
-                            "Your coins might be worthless, but she’s not! Pedro will handle the spa days, shopping sprees, and fancy dinners you can’t afford.",
+                            "Your coins might be worthless, but she’s not! CHAPO will handle the spa days, shopping sprees, and fancy dinners you can’t afford.",
                         }),
                         (0, c.jsx)("p", {
                           className: "tac",
@@ -405,12 +405,12 @@
                         (0, c.jsx)("p", {
                           className: "tac",
                           children:
-                            "While you’re HODLing, Pedro pampering. From diamond earrings to surprise getaways, she gets the best while you watch the market.",
+                            "While you’re HODLing, CHAPO pampering. From diamond earrings to surprise getaways, she gets the best while you watch the market.",
                         }),
                         (0, c.jsx)("p", {
                           className: "tac",
                           children:
-                            "Pedro Services: Keeping her happy so you can HODL in peace!",
+                            "CHAPO Services: Keeping her happy so you can HODL in peace!",
                         }),
                       ],
                     }),
@@ -431,7 +431,7 @@
                         }),
                         (0, c.jsx)("div", {
                           className: "py05 pr3",
-                          children: "PEDRO",
+                          children: "CHAPO",
                         }),
                       ],
                     }),
@@ -446,7 +446,7 @@
                           className: "",
                           children: [
                             (0, c.jsx)("img", {
-                              src: "/PEDRO.jpg",
+                              src: "/CHAPO.jpg",
                               className: "mb1 br10",
                               alt: "",
                             }),
@@ -454,9 +454,9 @@
 
                               (0, c.jsx)("a", {
                                 className: "bgb py05 fs15 br10 cw w100",
-                                children: "PEDRO",
+                                children: "CHAPO",
                                 style: { width: "100%", display: "flex", justifyContent: "center" },
-                                href: "https://pump.fun/TxXafd9KqoLah4siQNHv1dVhxw64V6KmaxFPJp9pump"
+                                href: "https://pump.fun/bmafWuYFWKRVZYzuzdherVDCgtnfCQQZZnY9u9Zpump"
                                 
                               }),
 
@@ -525,7 +525,7 @@
                                   className: "bgb py05 fs15 br10 cw w100",
                                   children: "Book now",
                                   style: { width: "100%", display: "flex", justifyContent: "center" },
-                                  href: "https://pump.fun/TxXafd9KqoLah4siQNHv1dVhxw64V6KmaxFPJp9pump"
+                                  href: "https://pump.fun/bmafWuYFWKRVZYzuzdherVDCgtnfCQQZZnY9u9Zpump"
                                   
                                 }),
                                 (0, c.jsxs)("div", {
@@ -539,11 +539,11 @@
                                       children: [
                                         (0, c.jsx)("div", {
                                           className: "fs15",
-                                          children: "https://t.me/PedroDegenCTO",
+                                          children: "https://t.me/CHAPODegenCTO",
                                         }),
                                         (0, c.jsx)("div", {
                                           className: "fs15 fw600",
-                                          children: "(555) 555-PEDRO",
+                                          children: "(555) 555-CHAPO",
                                         }),
                                       ],
                                     }),
@@ -570,7 +570,7 @@
                         style: { animationDuration: "45s" },
                         children: (0, c.jsx)("p", {
                           children:
-                            "$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0",
+                            "$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0",
                         }),
                       }),
                       (0, c.jsx)("div", {
@@ -578,7 +578,7 @@
                         style: { animationDuration: "45s" },
                         children: (0, c.jsx)("p", {
                           children:
-                            "$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0",
+                            "$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0",
                         }),
                       }),
                     ],
@@ -658,7 +658,7 @@
                               (0, c.jsx)("div", {
                                 className: "cw",
                                 children:
-                                  "Token Holders Pedro tokens holders can use these tokens to participate in project governance, voting, obtaining rewards",
+                                  "Token Holders CHAPO tokens holders can use these tokens to participate in project governance, voting, obtaining rewards",
                               }),
                             ],
                           }),
@@ -680,7 +680,7 @@
                           (0, c.jsx)("div", {
                             className: "fs2 cw mb2 fw600 cw mqtac",
                             children:
-                              "Hire PEDRO now to make sure the job is done to perfection.",
+                              "Hire CHAPO now to make sure the job is done to perfection.",
                           }),
                           (0, c.jsx)("div", {
                             className: "mb2",
@@ -710,13 +710,13 @@
                   }),
                   (0, c.jsx)("div", {
                     className: "tac fs3 cw  fw600 mb1",
-                    children: "Join to find your tailored PEDRO",
+                    children: "Join to find your tailored CHAPO",
                   }),
                   (0, c.jsxs)("div", {
                     className: "df aic jcc g1 mb5",
                     children: [
                       (0, c.jsx)("a", {
-                        href: "https://x.com/PedroDegenFun",
+                        href: "https://x.com/CHAPODegenFun",
                         target: "_blank",
                         children: (0, c.jsx)("div", {
                           className: "pa1 fs2 cw  br50 bgg b_s cw ",
@@ -724,7 +724,7 @@
                         }),
                       }),
                       (0, c.jsx)("a", {
-                        href: "https://t.me/PedroDegenCTO",
+                        href: "https://t.me/CHAPODegenCTO",
                         target: "_blank",
                         children: (0, c.jsx)("div", {
                           className: "pa1 fs2 cw  br50 bgg b_s cw ",
@@ -732,7 +732,7 @@
                         }),
                       }),
                       (0, c.jsx)("a", {
-                        href: "https://pump.fun/TxXafd9KqoLah4siQNHv1dVhxw64V6KmaxFPJp9pump",
+                        href: "https://pump.fun/bmafWuYFWKRVZYzuzdherVDCgtnfCQQZZnY9u9Zpump",
                         target: "_blank",
                         children: (0, c.jsx)("div", {
                           className: "pa1 fs2 cw  br50 bgg b_s cw ",
@@ -756,7 +756,7 @@
                     //     }),
                     //   }),
                     //   (0, c.jsx)("a", {
-                    //     href: "https://solscan.io/token/TxXafd9KqoLah4siQNHv1dVhxw64V6KmaxFPJp9pump",
+                    //     href: "https://solscan.io/token/bmafWuYFWKRVZYzuzdherVDCgtnfCQQZZnY9u9Zpump",
                     //     target: "_blank",
                     //     children: (0, c.jsx)("div", {
                     //       className: "pa1 fs2 cw  br50 bgg b_s cw ",
@@ -783,7 +783,7 @@
                         style: { animationDuration: "45s" },
                         children: (0, c.jsx)("p", {
                           children:
-                            "$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0",
+                            "$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0",
                         }),
                       }),
                       (0, c.jsx)("div", {
@@ -791,7 +791,7 @@
                         style: { animationDuration: "45s" },
                         children: (0, c.jsx)("p", {
                           children:
-                            "$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0$PEDRO $PEDRO\xa0\xa0",
+                            "$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0",
                         }),
                       }),
                     ],
@@ -803,17 +803,17 @@
                 children: [
                   (0, c.jsx)("div", {
                     className: "",
-                    children: "\xa9 $PEDRO 2024",
+                    children: "\xa9 $CHAPO 2024",
                   }),
                   (0, c.jsx)("div", {
                     className: "m-q-b-d-n fs15",
-                    children: "TxXafd9KqoLah4siQNHv1dVhxw64V6KmaxFPJp9pump",
+                    children: "bmafWuYFWKRVZYzuzdherVDCgtnfCQQZZnY9u9Zpump",
                   }),
                   (0, c.jsx)("div", {
                     className: "m-q-a-d-n fs15",
                     children:
                       String(
-                        "TxXafd9KqoLah4siQNHv1dVhxw64V6KmaxFPJp9pump"
+                        "bmafWuYFWKRVZYzuzdherVDCgtnfCQQZZnY9u9Zpump"
                       ).slice(0, 10) + "...",
                   }),
                 ],
