@@ -732,37 +732,12 @@
                         }),
                       }),
                       (0, c.jsx)("a", {
-                        href: "https://www.dextools.io/app/en/solana/pair-explorer/bmafWuYFWKRVZYzuzdherVDCgtnfCQQZZnY9u9Zpump",
-                        target: "_blank",
-                        children: (0, c.jsx)("div", {
-                          className: "pa1 fs2 cw  br50 bgg b_s cw ",
-                          children: (0, c.jsx)("img", {
-                            src: "https://Smidge.vip/static/media/dextools-y.fc7e910a97ed6efdefae.svg",
-                            className: "w2",
-                            alt: "",
-                          }),
-                        }),
-                      }),
-                      (0, c.jsx)("a", {
                         href: "https://dexscreener.com/solana/bmafWuYFWKRVZYzuzdherVDCgtnfCQQZZnY9u9Zpump",
                         target: "_blank",
                         children: (0, c.jsx)("div", {
                           className: "pa1 fs2 cw  br50 bgg b_s cw ",
                           children: (0, c.jsx)("img", {
                             src: "1.png",
-                            className: "w2",
-                            alt: "",
-                          }),
-                        }),
-                      }),
-
-                      (0, c.jsx)("a", {
-                        href: "https://solscan.io/token/bmafWuYFWKRVZYzuzdherVDCgtnfCQQZZnY9u9Zpump",
-                        target: "_blank",
-                        children: (0, c.jsx)("div", {
-                          className: "pa1 fs2 cw  br50 bgg b_s cw ",
-                          children: (0, c.jsx)("img", {
-                            src: "https://Smidge.vip/static/media/solscan-y.e92bafa1a551aaa2021d.svg",
                             className: "w2",
                             alt: "",
                           }),
