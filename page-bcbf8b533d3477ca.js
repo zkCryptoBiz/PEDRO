@@ -616,7 +616,7 @@
                               }),
                               (0, c.jsx)("div", {
                                 className: "cw fs15 mb05",
-                                children: " Token supply: 100 000 000",
+                                children: " Token supply: 1 000 000 000",
                               }),
                               (0, c.jsxs)("ul", {
                                 className: "cw",
