@@ -47,7 +47,7 @@
                         className: "icon",
                         children: 0 === s ? "..." : "▼",
                       }),
-                      (0, c.jsx)("h3", { children: "Who is CHAPO?" }),
+                      (0, c.jsx)("h3", { children: "Who is DIEGO?" }),
                     ],
                   }),
                   0 === s &&
@@ -56,7 +56,7 @@
                       children: (0, c.jsx)("p", {
                         className: "fs15",
                         children:
-                          'Most of us degens are too caught up hunting for the "the next banger" to handle our women\'s needs, whether it’s emotional or... you know, the other stuff. That’s where CHAPO comes in — perfect for the typical degen who’s always grinding and just doesnt have the time to put in the work',
+                          'Most of us degens are too caught up hunting for the "the next banger" to handle our women\'s needs, whether it’s emotional or... you know, the other stuff. That’s where DIEGO comes in — perfect for the typical degen who’s always grinding and just doesnt have the time to put in the work',
                       }),
                     }),
                 ],
@@ -73,7 +73,7 @@
                         children: 1 === s ? "..." : "▼",
                       }),
                       (0, c.jsx)("h3", {
-                        children: "Who is the team behind $CHAPO?",
+                        children: "Who is the team behind $DIEGO?",
                       }),
                     ],
                   }),
@@ -83,7 +83,7 @@
                       children: (0, c.jsx)("p", {
                         className: "fs15",
                         children:
-                          "The team behind $CHAPO consists of blockchain enthusiasts and meme culture lovers.",
+                          "The team behind $DIEGO consists of blockchain enthusiasts and meme culture lovers.",
                       }),
                     }),
                 ],
@@ -100,7 +100,7 @@
                         children: 2 === s ? "..." : "▼",
                       }),
                       (0, c.jsx)("h3", {
-                        children: "Where can I buy $CHAPO?",
+                        children: "Where can I buy $DIEGO?",
                       }),
                     ],
                   }),
@@ -110,7 +110,7 @@
                       children: (0, c.jsx)("p", {
                         className: "fs15",
                         children:
-                          "You can buy $CHAPO on various decentralized exchanges and trading platforms.",
+                          "You can buy $DIEGO on various decentralized exchanges and trading platforms.",
                       }),
                     }),
                 ],
@@ -137,7 +137,7 @@
                     }),
                     (0, c.jsx)("div", {
                       className: "cw tac",
-                      children: "CHAPO",
+                      children: "DIEGO",
                     }),
                   ],
                 }),
@@ -148,7 +148,7 @@
                     children: (0, c.jsx)("a", {
                       href: "https://raydium.io/swap/?inputMint=sol&outputMint=bmafWuYFWKRVZYzuzdherVDCgtnfCQQZZnY9u9Zpump",
                       target: "_blank",
-                      children: "GET $CHAPO",
+                      children: "GET $DIEGO",
                     }),
                   }),
                 }),
@@ -303,7 +303,7 @@
                         style: { animationDuration: "45s" },
                         children: (0, c.jsx)("p", {
                           children:
-                            "$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0",
+                            "$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0",
                         }),
                       }),
                       (0, c.jsx)("div", {
@@ -311,7 +311,7 @@
                         style: { animationDuration: "45s" },
                         children: (0, c.jsx)("p", {
                           children:
-                            "$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0",
+                            "$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0",
                         }),
                       }),
                     ],
@@ -337,7 +337,7 @@
                         style: { animationDuration: "45s" },
                         children: (0, c.jsx)("p", {
                           children:
-                            "$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0",
+                            "$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0",
                         }),
                       }),
                       (0, c.jsx)("div", {
@@ -345,7 +345,7 @@
                         style: { animationDuration: "45s" },
                         children: (0, c.jsx)("p", {
                           children:
-                            "$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0",
+                            "$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0",
                         }),
                       }),
                     ],
@@ -357,7 +357,7 @@
                 children: [
                   (0, c.jsx)("div", {
                     className: "fs4 tac fw600 mb2 cw",
-                    children: "CHAPO Services",
+                    children: "DIEGO Services",
                   }),
                   (0, c.jsx)("div", {
                     className: "",
@@ -383,11 +383,11 @@
                         (0, c.jsx)("p", {
                           className: "tac",
                           children:
-                            "Don't worry, CHAPO knows times are tough. But just because your coins are down doesn’t mean her standards should be!",
+                            "Don't worry, DIEGO knows times are tough. But just because your coins are down doesn’t mean her standards should be!",
                         }),
                         (0, c.jsx)("p", {
                           className: "fs3 tac fw600 mt2",
-                          children: "Why CHAPO Services?",
+                          children: "Why DIEGO Services?",
                         }),
                         (0, c.jsx)("p", {
                           className: "tac",
@@ -396,7 +396,7 @@
                         (0, c.jsx)("p", {
                           className: "tac",
                           children:
-                            "Your coins might be worthless, but she’s not! CHAPO will handle the spa days, shopping sprees, and fancy dinners you can’t afford.",
+                            "Your coins might be worthless, but she’s not! DIEGO will handle the spa days, shopping sprees, and fancy dinners you can’t afford.",
                         }),
                         (0, c.jsx)("p", {
                           className: "tac",
@@ -405,12 +405,12 @@
                         (0, c.jsx)("p", {
                           className: "tac",
                           children:
-                            "While you’re HODLing, CHAPO pampering. From diamond earrings to surprise getaways, she gets the best while you watch the market.",
+                            "While you’re HODLing, DIEGO pampering. From diamond earrings to surprise getaways, she gets the best while you watch the market.",
                         }),
                         (0, c.jsx)("p", {
                           className: "tac",
                           children:
-                            "CHAPO Services: Keeping her happy so you can HODL in peace!",
+                            "DIEGO Services: Keeping her happy so you can HODL in peace!",
                         }),
                       ],
                     }),
@@ -431,7 +431,7 @@
                         }),
                         (0, c.jsx)("div", {
                           className: "py05 pr3",
-                          children: "CHAPO",
+                          children: "DIEGO",
                         }),
                       ],
                     }),
@@ -454,7 +454,7 @@
 
                               (0, c.jsx)("a", {
                                 className: "bgb py05 fs15 br10 cw w100",
-                                children: "CHAPO",
+                                children: "DIEGO",
                                 style: { width: "100%", display: "flex", justifyContent: "center" },
                                 href: "https://raydium.io/swap/?inputMint=sol&outputMint=bmafWuYFWKRVZYzuzdherVDCgtnfCQQZZnY9u9Zpump"
                                 
@@ -543,7 +543,7 @@
                                         }),
                                         (0, c.jsx)("div", {
                                           className: "fs15 fw600",
-                                          children: "(555) 555-CHAPO",
+                                          children: "(555) 555-DIEGO",
                                         }),
                                       ],
                                     }),
@@ -570,7 +570,7 @@
                         style: { animationDuration: "45s" },
                         children: (0, c.jsx)("p", {
                           children:
-                            "$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0",
+                            "$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0",
                         }),
                       }),
                       (0, c.jsx)("div", {
@@ -578,7 +578,7 @@
                         style: { animationDuration: "45s" },
                         children: (0, c.jsx)("p", {
                           children:
-                            "$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0",
+                            "$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0",
                         }),
                       }),
                     ],
@@ -658,7 +658,7 @@
                               (0, c.jsx)("div", {
                                 className: "cw",
                                 children:
-                                  "Token Holders CHAPO tokens holders can use these tokens to participate in project governance, voting, obtaining rewards",
+                                  "Token Holders DIEGO tokens holders can use these tokens to participate in project governance, voting, obtaining rewards",
                               }),
                             ],
                           }),
@@ -680,7 +680,7 @@
                           (0, c.jsx)("div", {
                             className: "fs2 cw mb2 fw600 cw mqtac",
                             children:
-                              "Hire CHAPO now to make sure the job is done to perfection.",
+                              "Hire DIEGO now to make sure the job is done to perfection.",
                           }),
                           (0, c.jsx)("div", {
                             className: "mb2",
@@ -710,7 +710,7 @@
                   }),
                   (0, c.jsx)("div", {
                     className: "tac fs3 cw  fw600 mb1",
-                    children: "Join to find your tailored CHAPO",
+                    children: "Join to find your tailored DIEGO",
                   }),
                   (0, c.jsxs)("div", {
                     className: "df aic jcc g1 mb5",
@@ -759,7 +759,7 @@
                         style: { animationDuration: "45s" },
                         children: (0, c.jsx)("p", {
                           children:
-                            "$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0",
+                            "$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0",
                         }),
                       }),
                       (0, c.jsx)("div", {
@@ -767,7 +767,7 @@
                         style: { animationDuration: "45s" },
                         children: (0, c.jsx)("p", {
                           children:
-                            "$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0$CHAPO $CHAPO\xa0\xa0",
+                            "$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0",
                         }),
                       }),
                     ],
@@ -779,7 +779,7 @@
                 children: [
                   (0, c.jsx)("div", {
                     className: "",
-                    children: "\xa9 $CHAPO 2024",
+                    children: "\xa9 $DIEGO 2024",
                   }),
                   (0, c.jsx)("div", {
                     className: "m-q-b-d-n fs15",
