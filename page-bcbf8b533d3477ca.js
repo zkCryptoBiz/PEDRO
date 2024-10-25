@@ -146,7 +146,7 @@
                   children: (0, c.jsx)("div", {
                     class: "bg_y b_s3 px3 py05 fs15 cw br30 ",
                     children: (0, c.jsx)("a", {
-                      href: "https://raydium.io/swap/?inputMint=sol&outputMint=bmafWuYFWKRVZYzuzdherVDCgtnfCQQZZnY9u9Zpump",
+                      href: "https://pump.fun/xi8MehGrRL7Mv1qGUnzfhQxJpm7dCKnTLN6PDSbpump",
                       target: "_blank",
                       children: "GET $DIEGO",
                     }),
@@ -197,7 +197,7 @@
                           className: "df aic ttu jcc g1 flex-wrap mb2",
                           children: [
                             (0, c.jsx)("a", {
-                              href: "https://t.me/ChaposMeme",
+                              href: "https://t.me/DiegoDegen",
                               target: "_blank",
                               children: (0, c.jsxs)("div", {
                                 className:
@@ -214,7 +214,7 @@
                               }),
                             }),
                             (0, c.jsx)("a", {
-                              href: "https://x.com/ChaposMeme",
+                              href: "https://x.com/DiegoDegen",
                               target: "_blank",
                               children: (0, c.jsxs)("div", {
                                 className:
@@ -231,7 +231,7 @@
                               }),
                             }),
                             (0, c.jsx)("a", {
-                              href: "https://dexscreener.com/solana/bmafWuYFWKRVZYzuzdherVDCgtnfCQQZZnY9u9Zpump",
+                              href: "https://pump.fun/xi8MehGrRL7Mv1qGUnzfhQxJpm7dCKnTLN6PDSbpump",
                               target: "_blank",
                               children: (0, c.jsxs)("div", {
                                 className:
@@ -245,7 +245,7 @@
                                       className: "w2",
                                     }),
                                   }),
-                                  "Dexscreener",
+                                  "Pump.fun",
                                 ],
                               }),
                             }),
@@ -258,12 +258,12 @@
                               className:
                                 "df aic jcc g1 px4 py1 fs25 br60 bg_y b_s2 cw m-q-b-d-n",
                               children: [
-                                "bmafWuYFWKRVZYzuzdherVDCgtnfCQQZZnY9u9Zpump",
+                                "xi8MehGrRL7Mv1qGUnzfhQxJpm7dCKnTLN6PDSbpump",
                                 (0, c.jsx)(N.Dup, {
                                   className: "fs15 bct cp",
                                   onClick: () =>
                                     s(
-                                      "bmafWuYFWKRVZYzuzdherVDCgtnfCQQZZnY9u9Zpump"
+                                      "xi8MehGrRL7Mv1qGUnzfhQxJpm7dCKnTLN6PDSbpump"
                                     ),
                                 }),
                               ],
@@ -273,13 +273,13 @@
                                 "df aic jcc g1 px4 py2 fs125 br60 bglp2 b_s2 cw m-q-a-d-n",
                               children: [
                                 String(
-                                  "bmafWuYFWKRVZYzuzdherVDCgtnfCQQZZnY9u9Zpump"
+                                  "xi8MehGrRL7Mv1qGUnzfhQxJpm7dCKnTLN6PDSbpump"
                                 ).slice(0, 4) + "...",
                                 (0, c.jsx)(N.Dup, {
                                   className: "fs15 bct cp",
                                   onClick: () =>
                                     s(
-                                      "bmafWuYFWKRVZYzuzdherVDCgtnfCQQZZnY9u9Zpump"
+                                      "xi8MehGrRL7Mv1qGUnzfhQxJpm7dCKnTLN6PDSbpump"
                                     ),
                                 }),
                               ],
@@ -456,7 +456,7 @@
                                 className: "bgb py05 fs15 br10 cw w100",
                                 children: "DIEGO",
                                 style: { width: "100%", display: "flex", justifyContent: "center" },
-                                href: "https://raydium.io/swap/?inputMint=sol&outputMint=bmafWuYFWKRVZYzuzdherVDCgtnfCQQZZnY9u9Zpump"
+                                href: "https://pump.fun/xi8MehGrRL7Mv1qGUnzfhQxJpm7dCKnTLN6PDSbpump"
                                 
                               }),
 
@@ -525,7 +525,7 @@
                                   className: "bgb py05 fs15 br10 cw w100",
                                   children: "Book now",
                                   style: { width: "100%", display: "flex", justifyContent: "center" },
-                                  href: "https://raydium.io/swap/?inputMint=sol&outputMint=bmafWuYFWKRVZYzuzdherVDCgtnfCQQZZnY9u9Zpump"
+                                  href: "https://pump.fun/xi8MehGrRL7Mv1qGUnzfhQxJpm7dCKnTLN6PDSbpump"
                                   
                                 }),
                                 (0, c.jsxs)("div", {
@@ -539,7 +539,7 @@
                                       children: [
                                         (0, c.jsx)("div", {
                                           className: "fs15",
-                                          children: "https://t.me/ChaposMeme",
+                                          children: "https://t.me/DiegoDegen",
                                         }),
                                         (0, c.jsx)("div", {
                                           className: "fs15 fw600",
@@ -716,7 +716,7 @@
                     className: "df aic jcc g1 mb5",
                     children: [
                       (0, c.jsx)("a", {
-                        href: "https://x.com/ChaposMeme",
+                        href: "https://x.com/DiegoDegen",
                         target: "_blank",
                         children: (0, c.jsx)("div", {
                           className: "pa1 fs2 cw  br50 bgg b_s cw ",
@@ -724,7 +724,7 @@
                         }),
                       }),
                       (0, c.jsx)("a", {
-                        href: "https://t.me/ChaposMeme",
+                        href: "https://t.me/DiegoDegen",
                         target: "_blank",
                         children: (0, c.jsx)("div", {
                           className: "pa1 fs2 cw  br50 bgg b_s cw ",
@@ -732,7 +732,7 @@
                         }),
                       }),
                       (0, c.jsx)("a", {
-                        href: "https://dexscreener.com/solana/bmafWuYFWKRVZYzuzdherVDCgtnfCQQZZnY9u9Zpump",
+                        href: "https://pump.fun/xi8MehGrRL7Mv1qGUnzfhQxJpm7dCKnTLN6PDSbpump",
                         target: "_blank",
                         children: (0, c.jsx)("div", {
                           className: "pa1 fs2 cw  br50 bgg b_s cw ",
@@ -783,13 +783,13 @@
                   }),
                   (0, c.jsx)("div", {
                     className: "m-q-b-d-n fs15",
-                    children: "bmafWuYFWKRVZYzuzdherVDCgtnfCQQZZnY9u9Zpump",
+                    children: "xi8MehGrRL7Mv1qGUnzfhQxJpm7dCKnTLN6PDSbpump",
                   }),
                   (0, c.jsx)("div", {
                     className: "m-q-a-d-n fs15",
                     children:
                       String(
-                        "bmafWuYFWKRVZYzuzdherVDCgtnfCQQZZnY9u9Zpump"
+                        "xi8MehGrRL7Mv1qGUnzfhQxJpm7dCKnTLN6PDSbpump"
                       ).slice(0, 10) + "...",
                   }),
                 ],
