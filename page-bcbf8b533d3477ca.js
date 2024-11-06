@@ -197,7 +197,7 @@
                           className: "df aic ttu jcc g1 flex-wrap mb2",
                           children: [
                             (0, c.jsx)("a", {
-                              href: "https://t.me/DiegoDegen",
+                              href: "https://t.me/NachosDegen",
                               target: "_blank",
                               children: (0, c.jsxs)("div", {
                                 className:
@@ -214,7 +214,7 @@
                               }),
                             }),
                             (0, c.jsx)("a", {
-                              href: "https://x.com/DiegoDegen",
+                              href: "https://x.com/NachosDegen",
                               target: "_blank",
                               children: (0, c.jsxs)("div", {
                                 className:
@@ -539,7 +539,7 @@
                                       children: [
                                         (0, c.jsx)("div", {
                                           className: "fs15",
-                                          children: "https://t.me/DiegoDegen",
+                                          children: "https://t.me/NachosDegen",
                                         }),
                                         (0, c.jsx)("div", {
                                           className: "fs15 fw600",
@@ -716,7 +716,7 @@
                     className: "df aic jcc g1 mb5",
                     children: [
                       (0, c.jsx)("a", {
-                        href: "https://x.com/DiegoDegen",
+                        href: "https://x.com/NachosDegen",
                         target: "_blank",
                         children: (0, c.jsx)("div", {
                           className: "pa1 fs2 cw  br50 bgg b_s cw ",
@@ -724,7 +724,7 @@
                         }),
                       }),
                       (0, c.jsx)("a", {
-                        href: "https://t.me/DiegoDegen",
+                        href: "https://t.me/NachosDegen",
                         target: "_blank",
                         children: (0, c.jsx)("div", {
                           className: "pa1 fs2 cw  br50 bgg b_s cw ",
