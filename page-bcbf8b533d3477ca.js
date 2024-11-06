@@ -73,7 +73,7 @@
                         children: 1 === s ? "..." : "▼",
                       }),
                       (0, c.jsx)("h3", {
-                        children: "Who is the team behind $DIEGO?",
+                        children: "Who is the team behind $NACHOS?",
                       }),
                     ],
                   }),
@@ -83,7 +83,7 @@
                       children: (0, c.jsx)("p", {
                         className: "fs15",
                         children:
-                          "The team behind $DIEGO consists of blockchain enthusiasts and meme culture lovers.",
+                          "The team behind $NACHOS consists of blockchain enthusiasts and meme culture lovers.",
                       }),
                     }),
                 ],
@@ -100,7 +100,7 @@
                         children: 2 === s ? "..." : "▼",
                       }),
                       (0, c.jsx)("h3", {
-                        children: "Where can I buy $DIEGO?",
+                        children: "Where can I buy $NACHOS?",
                       }),
                     ],
                   }),
@@ -110,7 +110,7 @@
                       children: (0, c.jsx)("p", {
                         className: "fs15",
                         children:
-                          "You can buy $DIEGO on various decentralized exchanges and trading platforms.",
+                          "You can buy $NACHOS on various decentralized exchanges and trading platforms.",
                       }),
                     }),
                 ],
@@ -148,7 +148,7 @@
                     children: (0, c.jsx)("a", {
                       href: "https://pump.fun/kJw6U9e1jPWRiDrFStUhgsRVoynadU6eEgW36k4pump",
                       target: "_blank",
-                      children: "GET $DIEGO",
+                      children: "GET $NACHOS",
                     }),
                   }),
                 }),
@@ -303,7 +303,7 @@
                         style: { animationDuration: "45s" },
                         children: (0, c.jsx)("p", {
                           children:
-                            "$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0",
+                            "$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0",
                         }),
                       }),
                       (0, c.jsx)("div", {
@@ -311,7 +311,7 @@
                         style: { animationDuration: "45s" },
                         children: (0, c.jsx)("p", {
                           children:
-                            "$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0",
+                            "$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0",
                         }),
                       }),
                     ],
@@ -337,7 +337,7 @@
                         style: { animationDuration: "45s" },
                         children: (0, c.jsx)("p", {
                           children:
-                            "$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0",
+                            "$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0",
                         }),
                       }),
                       (0, c.jsx)("div", {
@@ -345,7 +345,7 @@
                         style: { animationDuration: "45s" },
                         children: (0, c.jsx)("p", {
                           children:
-                            "$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0",
+                            "$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0",
                         }),
                       }),
                     ],
@@ -570,7 +570,7 @@
                         style: { animationDuration: "45s" },
                         children: (0, c.jsx)("p", {
                           children:
-                            "$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0",
+                            "$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0",
                         }),
                       }),
                       (0, c.jsx)("div", {
@@ -578,7 +578,7 @@
                         style: { animationDuration: "45s" },
                         children: (0, c.jsx)("p", {
                           children:
-                            "$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0",
+                            "$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0",
                         }),
                       }),
                     ],
@@ -759,7 +759,7 @@
                         style: { animationDuration: "45s" },
                         children: (0, c.jsx)("p", {
                           children:
-                            "$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0",
+                            "$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0",
                         }),
                       }),
                       (0, c.jsx)("div", {
@@ -767,7 +767,7 @@
                         style: { animationDuration: "45s" },
                         children: (0, c.jsx)("p", {
                           children:
-                            "$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0$DIEGO $DIEGO\xa0\xa0",
+                            "$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0",
                         }),
                       }),
                     ],
@@ -779,7 +779,7 @@
                 children: [
                   (0, c.jsx)("div", {
                     className: "",
-                    children: "\xa9 $DIEGO 2024",
+                    children: "\xa9 $NACHOS 2024",
                   }),
                   (0, c.jsx)("div", {
                     className: "m-q-b-d-n fs15",
