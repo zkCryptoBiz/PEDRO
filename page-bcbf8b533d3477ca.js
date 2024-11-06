@@ -47,7 +47,7 @@
                         className: "icon",
                         children: 0 === s ? "..." : "▼",
                       }),
-                      (0, c.jsx)("h3", { children: "Who is DIEGO?" }),
+                      (0, c.jsx)("h3", { children: "Who is NACHOS?" }),
                     ],
                   }),
                   0 === s &&
@@ -56,7 +56,7 @@
                       children: (0, c.jsx)("p", {
                         className: "fs15",
                         children:
-                          'Most of us degens are too caught up hunting for the "the next banger" to handle our women\'s needs, whether it’s emotional or... you know, the other stuff. That’s where DIEGO comes in — perfect for the typical degen who’s always grinding and just doesnt have the time to put in the work',
+                          'Most of us degens are too caught up hunting for the "the next banger" to handle our women\'s needs, whether it’s emotional or... you know, the other stuff. That’s where NACHOS comes in — perfect for the typical degen who’s always grinding and just doesnt have the time to put in the work',
                       }),
                     }),
                 ],
@@ -137,7 +137,7 @@
                     }),
                     (0, c.jsx)("div", {
                       className: "cw tac",
-                      children: "DIEGO",
+                      children: "NACHOS",
                     }),
                   ],
                 }),
@@ -357,7 +357,7 @@
                 children: [
                   (0, c.jsx)("div", {
                     className: "fs4 tac fw600 mb2 cw",
-                    children: "DIEGO Services",
+                    children: "NACHOS Services",
                   }),
                   (0, c.jsx)("div", {
                     className: "",
@@ -383,11 +383,11 @@
                         (0, c.jsx)("p", {
                           className: "tac",
                           children:
-                            "Don't worry, DIEGO knows times are tough. But just because your coins are down doesn’t mean her standards should be!",
+                            "Don't worry, NACHOS knows times are tough. But just because your coins are down doesn’t mean her standards should be!",
                         }),
                         (0, c.jsx)("p", {
                           className: "fs3 tac fw600 mt2",
-                          children: "Why DIEGO Services?",
+                          children: "Why NACHOS Services?",
                         }),
                         (0, c.jsx)("p", {
                           className: "tac",
@@ -396,7 +396,7 @@
                         (0, c.jsx)("p", {
                           className: "tac",
                           children:
-                            "Your coins might be worthless, but she’s not! DIEGO will handle the spa days, shopping sprees, and fancy dinners you can’t afford.",
+                            "Your coins might be worthless, but she’s not! NACHOS will handle the spa days, shopping sprees, and fancy dinners you can’t afford.",
                         }),
                         (0, c.jsx)("p", {
                           className: "tac",
@@ -405,12 +405,12 @@
                         (0, c.jsx)("p", {
                           className: "tac",
                           children:
-                            "While you’re HODLing, DIEGO pampering. From diamond earrings to surprise getaways, she gets the best while you watch the market.",
+                            "While you’re HODLing, NACHOS pampering. From diamond earrings to surprise getaways, she gets the best while you watch the market.",
                         }),
                         (0, c.jsx)("p", {
                           className: "tac",
                           children:
-                            "DIEGO Services: Keeping her happy so you can HODL in peace!",
+                            "NACHOS Services: Keeping her happy so you can HODL in peace!",
                         }),
                       ],
                     }),
@@ -431,7 +431,7 @@
                         }),
                         (0, c.jsx)("div", {
                           className: "py05 pr3",
-                          children: "DIEGO",
+                          children: "NACHOS",
                         }),
                       ],
                     }),
@@ -454,7 +454,7 @@
 
                               (0, c.jsx)("a", {
                                 className: "bgb py05 fs15 br10 cw w100",
-                                children: "DIEGO",
+                                children: "NACHOS",
                                 style: { width: "100%", display: "flex", justifyContent: "center" },
                                 href: "https://pump.fun/kJw6U9e1jPWRiDrFStUhgsRVoynadU6eEgW36k4pump"
                                 
@@ -543,7 +543,7 @@
                                         }),
                                         (0, c.jsx)("div", {
                                           className: "fs15 fw600",
-                                          children: "(555) 555-DIEGO",
+                                          children: "(555) 555-NACHOS",
                                         }),
                                       ],
                                     }),
@@ -658,7 +658,7 @@
                               (0, c.jsx)("div", {
                                 className: "cw",
                                 children:
-                                  "Token Holders DIEGO tokens holders can use these tokens to participate in project governance, voting, obtaining rewards",
+                                  "Token Holders NACHOS tokens holders can use these tokens to participate in project governance, voting, obtaining rewards",
                               }),
                             ],
                           }),
@@ -680,7 +680,7 @@
                           (0, c.jsx)("div", {
                             className: "fs2 cw mb2 fw600 cw mqtac",
                             children:
-                              "Hire DIEGO now to make sure the job is done to perfection.",
+                              "Hire NACHOS now to make sure the job is done to perfection.",
                           }),
                           (0, c.jsx)("div", {
                             className: "mb2",
@@ -710,7 +710,7 @@
                   }),
                   (0, c.jsx)("div", {
                     className: "tac fs3 cw  fw600 mb1",
-                    children: "Join to find your tailored DIEGO",
+                    children: "Join to find your tailored NACHOS",
                   }),
                   (0, c.jsxs)("div", {
                     className: "df aic jcc g1 mb5",
