@@ -47,7 +47,7 @@
                         className: "icon",
                         children: 0 === s ? "..." : "▼",
                       }),
-                      (0, c.jsx)("h3", { children: "Who is NACHOS?" }),
+                      (0, c.jsx)("h3", { children: "Who is JUAN?" }),
                     ],
                   }),
                   0 === s &&
@@ -56,7 +56,7 @@
                       children: (0, c.jsx)("p", {
                         className: "fs15",
                         children:
-                          'Most of us degens are too caught up hunting for the "the next banger" to handle our women\'s needs, whether it’s emotional or... you know, the other stuff. That’s where NACHOS comes in — perfect for the typical degen who’s always grinding and just doesnt have the time to put in the work',
+                          'Most of us degens are too caught up hunting for the "the next banger" to handle our women\'s needs, whether it’s emotional or... you know, the other stuff. That’s where JUAN comes in — perfect for the typical degen who’s always grinding and just doesnt have the time to put in the work',
                       }),
                     }),
                 ],
@@ -73,7 +73,7 @@
                         children: 1 === s ? "..." : "▼",
                       }),
                       (0, c.jsx)("h3", {
-                        children: "Who is the team behind $NACHOS?",
+                        children: "Who is the team behind $JUAN?",
                       }),
                     ],
                   }),
@@ -83,7 +83,7 @@
                       children: (0, c.jsx)("p", {
                         className: "fs15",
                         children:
-                          "The team behind $NACHOS consists of blockchain enthusiasts and meme culture lovers.",
+                          "The team behind $JUAN consists of blockchain enthusiasts and meme culture lovers.",
                       }),
                     }),
                 ],
@@ -100,7 +100,7 @@
                         children: 2 === s ? "..." : "▼",
                       }),
                       (0, c.jsx)("h3", {
-                        children: "Where can I buy $NACHOS?",
+                        children: "Where can I buy $JUAN?",
                       }),
                     ],
                   }),
@@ -110,7 +110,7 @@
                       children: (0, c.jsx)("p", {
                         className: "fs15",
                         children:
-                          "You can buy $NACHOS on various decentralized exchanges and trading platforms.",
+                          "You can buy $JUAN on various decentralized exchanges and trading platforms.",
                       }),
                     }),
                 ],
@@ -137,7 +137,7 @@
                     }),
                     (0, c.jsx)("div", {
                       className: "cw tac",
-                      children: "NACHOS",
+                      children: "JUAN",
                     }),
                   ],
                 }),
@@ -146,9 +146,9 @@
                   children: (0, c.jsx)("div", {
                     class: "bg_y b_s3 px3 py05 fs15 cw br30 ",
                     children: (0, c.jsx)("a", {
-                      href: "https://pump.fun/kJw6U9e1jPWRiDrFStUhgsRVoynadU6eEgW36k4pump",
+                      href: "https://pump.fun/KNLXYqQJVh74LmYiqSXg1o5YrxCHbVDNYpjx6Xhpump",
                       target: "_blank",
-                      children: "GET $NACHOS",
+                      children: "GET $JUAN",
                     }),
                   }),
                 }),
@@ -197,7 +197,7 @@
                           className: "df aic ttu jcc g1 flex-wrap mb2",
                           children: [
                             (0, c.jsx)("a", {
-                              href: "https://t.me/NachosDegen",
+                              href: "https://t.me/DonJuanSol",
                               target: "_blank",
                               children: (0, c.jsxs)("div", {
                                 className:
@@ -214,7 +214,7 @@
                               }),
                             }),
                             (0, c.jsx)("a", {
-                              href: "https://x.com/NachosDegen",
+                              href: "https://x.com/DonJuanSol",
                               target: "_blank",
                               children: (0, c.jsxs)("div", {
                                 className:
@@ -231,7 +231,7 @@
                               }),
                             }),
                             (0, c.jsx)("a", {
-                              href: "https://pump.fun/kJw6U9e1jPWRiDrFStUhgsRVoynadU6eEgW36k4pump",
+                              href: "https://pump.fun/KNLXYqQJVh74LmYiqSXg1o5YrxCHbVDNYpjx6Xhpump",
                               target: "_blank",
                               children: (0, c.jsxs)("div", {
                                 className:
@@ -258,12 +258,12 @@
                               className:
                                 "df aic jcc g1 px4 py1 fs25 br60 bg_y b_s2 cw m-q-b-d-n",
                               children: [
-                                "kJw6U9e1jPWRiDrFStUhgsRVoynadU6eEgW36k4pump",
+                                "KNLXYqQJVh74LmYiqSXg1o5YrxCHbVDNYpjx6Xhpump",
                                 (0, c.jsx)(N.Dup, {
                                   className: "fs15 bct cp",
                                   onClick: () =>
                                     s(
-                                      "kJw6U9e1jPWRiDrFStUhgsRVoynadU6eEgW36k4pump"
+                                      "KNLXYqQJVh74LmYiqSXg1o5YrxCHbVDNYpjx6Xhpump"
                                     ),
                                 }),
                               ],
@@ -273,13 +273,13 @@
                                 "df aic jcc g1 px4 py2 fs125 br60 bglp2 b_s2 cw m-q-a-d-n",
                               children: [
                                 String(
-                                  "kJw6U9e1jPWRiDrFStUhgsRVoynadU6eEgW36k4pump"
+                                  "KNLXYqQJVh74LmYiqSXg1o5YrxCHbVDNYpjx6Xhpump"
                                 ).slice(0, 4) + "...",
                                 (0, c.jsx)(N.Dup, {
                                   className: "fs15 bct cp",
                                   onClick: () =>
                                     s(
-                                      "kJw6U9e1jPWRiDrFStUhgsRVoynadU6eEgW36k4pump"
+                                      "KNLXYqQJVh74LmYiqSXg1o5YrxCHbVDNYpjx6Xhpump"
                                     ),
                                 }),
                               ],
@@ -303,7 +303,7 @@
                         style: { animationDuration: "45s" },
                         children: (0, c.jsx)("p", {
                           children:
-                            "$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0",
+                            "$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0",
                         }),
                       }),
                       (0, c.jsx)("div", {
@@ -311,7 +311,7 @@
                         style: { animationDuration: "45s" },
                         children: (0, c.jsx)("p", {
                           children:
-                            "$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0",
+                            "$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0",
                         }),
                       }),
                     ],
@@ -337,7 +337,7 @@
                         style: { animationDuration: "45s" },
                         children: (0, c.jsx)("p", {
                           children:
-                            "$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0",
+                            "$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0",
                         }),
                       }),
                       (0, c.jsx)("div", {
@@ -345,7 +345,7 @@
                         style: { animationDuration: "45s" },
                         children: (0, c.jsx)("p", {
                           children:
-                            "$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0",
+                            "$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0",
                         }),
                       }),
                     ],
@@ -357,7 +357,7 @@
                 children: [
                   (0, c.jsx)("div", {
                     className: "fs4 tac fw600 mb2 cw",
-                    children: "NACHOS Services",
+                    children: "JUAN Services",
                   }),
                   (0, c.jsx)("div", {
                     className: "",
@@ -383,11 +383,11 @@
                         (0, c.jsx)("p", {
                           className: "tac",
                           children:
-                            "Don't worry, NACHOS knows times are tough. But just because your coins are down doesn’t mean her standards should be!",
+                            "Don't worry, JUAN knows times are tough. But just because your coins are down doesn’t mean her standards should be!",
                         }),
                         (0, c.jsx)("p", {
                           className: "fs3 tac fw600 mt2",
-                          children: "Why NACHOS Services?",
+                          children: "Why JUAN Services?",
                         }),
                         (0, c.jsx)("p", {
                           className: "tac",
@@ -396,7 +396,7 @@
                         (0, c.jsx)("p", {
                           className: "tac",
                           children:
-                            "Your coins might be worthless, but she’s not! NACHOS will handle the spa days, shopping sprees, and fancy dinners you can’t afford.",
+                            "Your coins might be worthless, but she’s not! JUAN will handle the spa days, shopping sprees, and fancy dinners you can’t afford.",
                         }),
                         (0, c.jsx)("p", {
                           className: "tac",
@@ -405,12 +405,12 @@
                         (0, c.jsx)("p", {
                           className: "tac",
                           children:
-                            "While you’re HODLing, NACHOS pampering. From diamond earrings to surprise getaways, she gets the best while you watch the market.",
+                            "While you’re HODLing, JUAN pampering. From diamond earrings to surprise getaways, she gets the best while you watch the market.",
                         }),
                         (0, c.jsx)("p", {
                           className: "tac",
                           children:
-                            "NACHOS Services: Keeping her happy so you can HODL in peace!",
+                            "JUAN Services: Keeping her happy so you can HODL in peace!",
                         }),
                       ],
                     }),
@@ -431,7 +431,7 @@
                         }),
                         (0, c.jsx)("div", {
                           className: "py05 pr3",
-                          children: "NACHOS",
+                          children: "JUAN",
                         }),
                       ],
                     }),
@@ -454,9 +454,9 @@
 
                               (0, c.jsx)("a", {
                                 className: "bgb py05 fs15 br10 cw w100",
-                                children: "NACHOS",
+                                children: "JUAN",
                                 style: { width: "100%", display: "flex", justifyContent: "center" },
-                                href: "https://pump.fun/kJw6U9e1jPWRiDrFStUhgsRVoynadU6eEgW36k4pump"
+                                href: "https://pump.fun/KNLXYqQJVh74LmYiqSXg1o5YrxCHbVDNYpjx6Xhpump"
                                 
                               }),
 
@@ -525,7 +525,7 @@
                                   className: "bgb py05 fs15 br10 cw w100",
                                   children: "Book now",
                                   style: { width: "100%", display: "flex", justifyContent: "center" },
-                                  href: "https://pump.fun/kJw6U9e1jPWRiDrFStUhgsRVoynadU6eEgW36k4pump"
+                                  href: "https://pump.fun/KNLXYqQJVh74LmYiqSXg1o5YrxCHbVDNYpjx6Xhpump"
                                   
                                 }),
                                 (0, c.jsxs)("div", {
@@ -539,11 +539,11 @@
                                       children: [
                                         (0, c.jsx)("div", {
                                           className: "fs15",
-                                          children: "https://t.me/NachosDegen",
+                                          children: "https://t.me/DonJuanSol",
                                         }),
                                         (0, c.jsx)("div", {
                                           className: "fs15 fw600",
-                                          children: "(555) 555-NACHOS",
+                                          children: "(555) 555-JUAN",
                                         }),
                                       ],
                                     }),
@@ -570,7 +570,7 @@
                         style: { animationDuration: "45s" },
                         children: (0, c.jsx)("p", {
                           children:
-                            "$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0",
+                            "$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0",
                         }),
                       }),
                       (0, c.jsx)("div", {
@@ -578,7 +578,7 @@
                         style: { animationDuration: "45s" },
                         children: (0, c.jsx)("p", {
                           children:
-                            "$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0",
+                            "$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0",
                         }),
                       }),
                     ],
@@ -658,7 +658,7 @@
                               (0, c.jsx)("div", {
                                 className: "cw",
                                 children:
-                                  "Token Holders NACHOS tokens holders can use these tokens to participate in project governance, voting, obtaining rewards",
+                                  "Token Holders JUAN tokens holders can use these tokens to participate in project governance, voting, obtaining rewards",
                               }),
                             ],
                           }),
@@ -680,7 +680,7 @@
                           (0, c.jsx)("div", {
                             className: "fs2 cw mb2 fw600 cw mqtac",
                             children:
-                              "Hire NACHOS now to make sure the job is done to perfection.",
+                              "Hire JUAN now to make sure the job is done to perfection.",
                           }),
                           (0, c.jsx)("div", {
                             className: "mb2",
@@ -710,13 +710,13 @@
                   }),
                   (0, c.jsx)("div", {
                     className: "tac fs3 cw  fw600 mb1",
-                    children: "Join to find your tailored NACHOS",
+                    children: "Join to find your tailored JUAN",
                   }),
                   (0, c.jsxs)("div", {
                     className: "df aic jcc g1 mb5",
                     children: [
                       (0, c.jsx)("a", {
-                        href: "https://x.com/NachosDegen",
+                        href: "https://x.com/DonJuanSol",
                         target: "_blank",
                         children: (0, c.jsx)("div", {
                           className: "pa1 fs2 cw  br50 bgg b_s cw ",
@@ -724,7 +724,7 @@
                         }),
                       }),
                       (0, c.jsx)("a", {
-                        href: "https://t.me/NachosDegen",
+                        href: "https://t.me/DonJuanSol",
                         target: "_blank",
                         children: (0, c.jsx)("div", {
                           className: "pa1 fs2 cw  br50 bgg b_s cw ",
@@ -732,7 +732,7 @@
                         }),
                       }),
                       (0, c.jsx)("a", {
-                        href: "https://pump.fun/kJw6U9e1jPWRiDrFStUhgsRVoynadU6eEgW36k4pump",
+                        href: "https://pump.fun/KNLXYqQJVh74LmYiqSXg1o5YrxCHbVDNYpjx6Xhpump",
                         target: "_blank",
                         children: (0, c.jsx)("div", {
                           className: "pa1 fs2 cw  br50 bgg b_s cw ",
@@ -759,7 +759,7 @@
                         style: { animationDuration: "45s" },
                         children: (0, c.jsx)("p", {
                           children:
-                            "$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0",
+                            "$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0",
                         }),
                       }),
                       (0, c.jsx)("div", {
@@ -767,7 +767,7 @@
                         style: { animationDuration: "45s" },
                         children: (0, c.jsx)("p", {
                           children:
-                            "$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0$NACHOS $NACHOS\xa0\xa0",
+                            "$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0$JUAN $JUAN\xa0\xa0",
                         }),
                       }),
                     ],
@@ -779,17 +779,17 @@
                 children: [
                   (0, c.jsx)("div", {
                     className: "",
-                    children: "\xa9 $NACHOS 2024",
+                    children: "\xa9 $JUAN 2024",
                   }),
                   (0, c.jsx)("div", {
                     className: "m-q-b-d-n fs15",
-                    children: "kJw6U9e1jPWRiDrFStUhgsRVoynadU6eEgW36k4pump",
+                    children: "KNLXYqQJVh74LmYiqSXg1o5YrxCHbVDNYpjx6Xhpump",
                   }),
                   (0, c.jsx)("div", {
                     className: "m-q-a-d-n fs15",
                     children:
                       String(
-                        "kJw6U9e1jPWRiDrFStUhgsRVoynadU6eEgW36k4pump"
+                        "KNLXYqQJVh74LmYiqSXg1o5YrxCHbVDNYpjx6Xhpump"
                       ).slice(0, 10) + "...",
                   }),
                 ],
