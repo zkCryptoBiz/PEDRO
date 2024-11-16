@@ -197,7 +197,7 @@
                           className: "df aic ttu jcc g1 flex-wrap mb2",
                           children: [
                             (0, c.jsx)("a", {
-                              href: "https://t.me/DonJuanSol",
+                              href: "https://t.me/DonJuanSolana",
                               target: "_blank",
                               children: (0, c.jsxs)("div", {
                                 className:
@@ -539,7 +539,7 @@
                                       children: [
                                         (0, c.jsx)("div", {
                                           className: "fs15",
-                                          children: "https://t.me/DonJuanSol",
+                                          children: "https://t.me/DonJuanSolana",
                                         }),
                                         (0, c.jsx)("div", {
                                           className: "fs15 fw600",
@@ -724,7 +724,7 @@
                         }),
                       }),
                       (0, c.jsx)("a", {
-                        href: "https://t.me/DonJuanSol",
+                        href: "https://t.me/DonJuanSolana",
                         target: "_blank",
                         children: (0, c.jsx)("div", {
                           className: "pa1 fs2 cw  br50 bgg b_s cw ",
