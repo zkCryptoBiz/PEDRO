@@ -146,7 +146,7 @@
                   children: (0, c.jsx)("div", {
                     class: "bg_y b_s3 px3 py05 fs15 cw br30 ",
                     children: (0, c.jsx)("a", {
-                      href: "https://pump.fun/9UY1Lbu9fX8D2Mte98tiLW5yJVG34WKsRqZX9WC7pump",
+                      href: "https://pump.fun/g5MAe9vt5RYGH8rUVn892skF7TmHtg83w1LFdoxcump",
                       target: "_blank",
                       children: "GET $HUGO",
                     }),
@@ -231,7 +231,7 @@
                               }),
                             }),
                             (0, c.jsx)("a", {
-                              href: "https://pump.fun/9UY1Lbu9fX8D2Mte98tiLW5yJVG34WKsRqZX9WC7pump",
+                              href: "https://pump.fun/g5MAe9vt5RYGH8rUVn892skF7TmHtg83w1LFdoxcump",
                               target: "_blank",
                               children: (0, c.jsxs)("div", {
                                 className:
@@ -258,12 +258,12 @@
                               className:
                                 "df aic jcc g1 px4 py1 fs25 br60 bg_y b_s2 cw m-q-b-d-n",
                               children: [
-                                "9UY1Lbu9fX8D2Mte98tiLW5yJVG34WKsRqZX9WC7pump",
+                                "g5MAe9vt5RYGH8rUVn892skF7TmHtg83w1LFdoxcump",
                                 (0, c.jsx)(N.Dup, {
                                   className: "fs15 bct cp",
                                   onClick: () =>
                                     s(
-                                      "9UY1Lbu9fX8D2Mte98tiLW5yJVG34WKsRqZX9WC7pump"
+                                      "g5MAe9vt5RYGH8rUVn892skF7TmHtg83w1LFdoxcump"
                                     ),
                                 }),
                               ],
@@ -273,13 +273,13 @@
                                 "df aic jcc g1 px4 py2 fs125 br60 bglp2 b_s2 cw m-q-a-d-n",
                               children: [
                                 String(
-                                  "9UY1Lbu9fX8D2Mte98tiLW5yJVG34WKsRqZX9WC7pump"
+                                  "g5MAe9vt5RYGH8rUVn892skF7TmHtg83w1LFdoxcump"
                                 ).slice(0, 4) + "...",
                                 (0, c.jsx)(N.Dup, {
                                   className: "fs15 bct cp",
                                   onClick: () =>
                                     s(
-                                      "9UY1Lbu9fX8D2Mte98tiLW5yJVG34WKsRqZX9WC7pump"
+                                      "g5MAe9vt5RYGH8rUVn892skF7TmHtg83w1LFdoxcump"
                                     ),
                                 }),
                               ],
@@ -456,7 +456,7 @@
                                 className: "bgb py05 fs15 br10 cw w100",
                                 children: "HUGO",
                                 style: { width: "100%", display: "flex", justifyContent: "center" },
-                                href: "https://pump.fun/9UY1Lbu9fX8D2Mte98tiLW5yJVG34WKsRqZX9WC7pump"
+                                href: "https://pump.fun/g5MAe9vt5RYGH8rUVn892skF7TmHtg83w1LFdoxcump"
                                 
                               }),
 
@@ -525,7 +525,7 @@
                                   className: "bgb py05 fs15 br10 cw w100",
                                   children: "Book now",
                                   style: { width: "100%", display: "flex", justifyContent: "center" },
-                                  href: "https://pump.fun/9UY1Lbu9fX8D2Mte98tiLW5yJVG34WKsRqZX9WC7pump"
+                                  href: "https://pump.fun/g5MAe9vt5RYGH8rUVn892skF7TmHtg83w1LFdoxcump"
                                   
                                 }),
                                 (0, c.jsxs)("div", {
@@ -732,7 +732,7 @@
                         }),
                       }),
                       (0, c.jsx)("a", {
-                        href: "https://pump.fun/9UY1Lbu9fX8D2Mte98tiLW5yJVG34WKsRqZX9WC7pump",
+                        href: "https://pump.fun/g5MAe9vt5RYGH8rUVn892skF7TmHtg83w1LFdoxcump",
                         target: "_blank",
                         children: (0, c.jsx)("div", {
                           className: "pa1 fs2 cw  br50 bgg b_s cw ",
@@ -783,13 +783,13 @@
                   }),
                   (0, c.jsx)("div", {
                     className: "m-q-b-d-n fs15",
-                    children: "9UY1Lbu9fX8D2Mte98tiLW5yJVG34WKsRqZX9WC7pump",
+                    children: "g5MAe9vt5RYGH8rUVn892skF7TmHtg83w1LFdoxcump",
                   }),
                   (0, c.jsx)("div", {
                     className: "m-q-a-d-n fs15",
                     children:
                       String(
-                        "9UY1Lbu9fX8D2Mte98tiLW5yJVG34WKsRqZX9WC7pump"
+                        "g5MAe9vt5RYGH8rUVn892skF7TmHtg83w1LFdoxcump"
                       ).slice(0, 10) + "...",
                   }),
                 ],
